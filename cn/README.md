@@ -14,7 +14,6 @@
 - [ss obfs教程索引](./ss_obfs_教程索引.md)
 - [iphone/ipad](./ios_usage.md)
 - [Bross新网站](./Bross新网站.md)
-- [免费ss账号](./免费ss账号.md)
 - [ssr/ss 教程索引](./ssr_ss_tutorial_教程.md)
 - [ssr/ss windows教程](./ssr_ss_tutorial_windows教程.md)
 - [ssr/ss android教程](./ssr_ss_tutorial_android教程.md)

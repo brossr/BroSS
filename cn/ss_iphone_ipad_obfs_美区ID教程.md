@@ -8,13 +8,13 @@
 ##### 步骤
 
 
-<img src="./img/ios_a1.png"  width="250" alt="" />
-<img src="./img/ios_a2.png"  width="250" alt="" />
-<img src="./img/ios_a3.png"  width="250" alt="" />
-<img src="./img/ios_a4.png"  width="250" alt="" />
-<img src="./img/ios_a5.png"  width="250" alt="" />
-<img src="./img/ios_a6.png"  width="250" alt="" />
-<img src="./img/ios_a7.png"  width="250" alt="" />
+<img src="./img/ios_a1.png"  width="450" alt="" />
+<img src="./img/ios_a2.png"  width="450" alt="" />
+<img src="./img/ios_a3.png"  width="450" alt="" />
+<img src="./img/ios_a4.png"  width="450" alt="" />
+<img src="./img/ios_a5.png"  width="450" alt="" />
+<a href="https://apps.apple.com/us/app/shadowrocket/id932747118" title="跳转Applestore"><img src="./img/ios_a6.png"  width="450"/></a>
+<img src="./img/ios_a7.png"  width="450" alt="" />
 
 
 - 按照上面步骤完成点击下载完成，就可以使用工具了

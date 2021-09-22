@@ -1,5 +1,3 @@
-> For english version, click [here](./bro_ss_new_site.md)
-
 > 本人与以下网站无关！仅使用了其服务，搜集新网站以方便大家。
 # Bro新网站
 

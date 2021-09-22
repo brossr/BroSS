@@ -45,4 +45,4 @@
 - ss账号支持ssr客户端吗？在ssr客户端上如何使用？
 - 为什么打不开pixiv/telegram/instagram/tumblr/...？多半自己电脑手机的问题，如hosts文件不正常
 
-## [联系我们](./联系我们.md)
+## [联系我们](./Bross新网站.md)

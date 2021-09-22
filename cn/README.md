@@ -6,21 +6,15 @@
 
 # 中文版索引
 
-## 零基础1分钟学会用shadowsocks上网.保护隐私（科）（学）（上）（网）！
-- [ss obfs windows教程](./ss_windows_obfs_教程.md)
-- [ss obfs android教程](./ss_android_obfs_教程.md)
-- [ss obfs iphone/ipad教程](./ss_iphone_ipad_obfs_教程.md)
-- [ss obfs mac教程](./ss_mac_osx_obfs_教程.md)
-- [ss obfs教程索引](./ss_obfs_教程索引.md)
-- [iphone/ipad](./ios_usage.md)
-- [Bross新网站](./Bross新网站.md)
-- [ssr/ss 教程索引](./ssr_ss_tutorial_教程.md)
-- [ssr/ss windows教程](./ssr_ss_tutorial_windows教程.md)
-- [ssr/ss android教程](./ssr_ss_tutorial_android教程.md)
-- [ssr/ss mac教程](./ssr_ss_tutorial_mac教程.md)
-- [ssr/ss iphone/ipad教程](./ssr_ss_tutorial_ios教程.md)
-- [ssr/ss iphone/ipad(下载翻墙工具)教程](./ss_iphone_ipad_obfs_美区ID教程.md)
-- [trojan free server accounts](./trojan_free.md)
+## 零基础1分钟学会用.保护隐私（科）（学）（上）（网）！
+- [Windows教程](./windows教程.md)
+- [Android教程](./android教程.md)
+- [Iphone/Ipad/苹果手机教程](./ios教程.md)
+- [Mac教程](./mac教程.md)
+- [ssr/ss iphone/ipad(下载翻墙工具)教程](./美区ID教程.md)
+- [Bross防走失网站](./Bross新网站.md)
+- [下载客户端](./links.md)
+
 
 ## 万能解决方案
 建议：

@@ -1,9 +1,8 @@
-# Shadowsocks(R) links
-- Downloads
-  - [ssr android](https://github.com/shadowsocksr-backup/shadowsocksr-android)
-  - [ssr mack](https://github.com/yichengchen/ShadowsocksX-R/releases)
-  - [ssr mack2 prefered](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)
+# Download links
+> 下载链接
 
-- shadowsocksr-backup
-  - [ssr backup group](https://github.com/shadowsocksr-backup)
-  - [wiki](https://github.com/shadowsocksr-backup/shadowsocks-rss/wiki)
+- 安卓
+  - [点击下载](https://github.com/brossr/BroXray/tree/master/files/obfs_client/android.apk)
+
+
+

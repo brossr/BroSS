@@ -1,25 +1,24 @@
-# ssr ss mac 教程
-> 说明：ssr客户端兼容ssr及ss配置，下载安装好一个ssr客户端后，既能添加ssr服务器，也能添加ss服务器。
+# mac 教程
 
 
 ##### 客户端下载
- - [github ssr mac 1.4.4-r8](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.4-r8/ShadowsocksX-NG-R8.dmg)
+ - [Mac客户端下载](https://github.com/brossr/BroXray/raw/master/files/obfs_client/Mac.dmg)
 
- 
-##### Mac如何配置使用ssr/ss
-  - 下载好客户端后，打开dmg文件，系统解压完成后会弹出一个文件框，显示`ShadowsocksX-NG-R8`和一个绿色小飞机图标。
-  - 点开这个图标，系统弹出提示是否要打开从互联网上下载的应用，选择「打开」
-  - 打开后，在右上方状态栏可以看到一个灰色未点亮的小飞机图标。
-  - 将自建的或账号商提供的ssr/ss二维码打开放在屏幕中央，并确认没有被其他窗口遮挡。
-  - 右键点开任务栏上的小飞机图标，弹出菜单栏，找到处于「`Proxy Settings`」下方，「`Show network speed`」上方的「`Servers`」亦即「`服务器`」选项，光标移动上去，自动弹出子菜单栏，找到「`Scan QR Code From Screen...`」亦即「`从屏幕上扫描二维码...`」，点击此选项。系统自动将服务器信息添加到「`Servers`」。
-  - 仍然右击小飞机图标从「`Servers`」处找到刚添加的服务器，显示在「`Servers`」的子菜单栏上方区域的服务器列表中最末尾一个，找到刚添加的服务器，点击以确认启用该服务器。
-  - 此时已做好配置，但小飞机图标仍是灰色的，表示仍未启动。右击小飞机图标，在菜单栏中点击「`Turn Shadowsocks On`」，即启动ssr客户端。
-  - 打开google.com看看， 是不是已经连接到外网啦。😄
- 
- 
-##### Todo
- - [ ] 配图说明
- - [ ] 增加本地下载
- 
- ##### 其他客户端教程
- - [ssr/ss教程索引](./ssr_ss_tutorial_教程.md)
+##### 安装
+
+下载后运行安装包，因为权限问题，需要手动将安装包拖入「应用程序」文件夹中。
+<img src="./img/mac/mac01.png"  width="450" alt="" />
+
+
+安装后，点击运行，此时会弹出安全警告，需要在「系统偏好设置-安全性与隐私」中手动点击允许运行，并输入系统密码即可。
+<img src="./img/mac/mac02.png"  width="450" alt="" />
+<img src="./img/mac/mac03.png"  width="450" alt="" />
+
+##### 配置
+进入 Bro网站并且登录，点击左上角菜单栏，选择『我的线路』。然后进入需要配置的服务，点击复制链接，或者下载二维码。
+<img src="./img/mac/mac04.png"  width="450" alt="" />
+
+右键点击出现在顶部栏中的「V2RayU」图标，在弹出菜单中选择「从粘贴板导入」 或 [扫描屏幕上的二维码]。
+<img src="./img/mac/mac05.png"  width="450" alt="" />
+
+配置添加完毕后，你可以再次右键选择顶部栏中的「V2RayU」图标，选择不同的服务器节点和代理方式，即刻开始畅享自由的互联网吧。

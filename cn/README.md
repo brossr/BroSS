@@ -12,7 +12,7 @@
 - [Iphone/Ipad/苹果手机教程](./ios教程.md)
 - [Mac教程](./mac教程.md)
 - [Iphone/ipad(下载翻墙工具)教程](./美区ID教程.md)
-- [Bross防走失网站](./Bross新网站.md)
+- [Bross防走失网站](./Bro新网站.md)
 - [下载客户端](./links.md)
 
 
@@ -45,4 +45,4 @@
 - ss账号支持ssr客户端吗？在ssr客户端上如何使用？
 - 为什么打不开pixiv/telegram/instagram/tumblr/...？多半自己电脑手机的问题，如hosts文件不正常
 
-## [联系我们](./Bross新网站.md)
+## [联系我们](./Bro新网站.md)
